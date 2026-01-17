@@ -1,0 +1,7 @@
+Versão python: 3.13.5
+biblioteca: matplotlib.pyplot
+
+                                  Importante!!!
+-Caso não for instalada a biblioteca, vá no terminal e escreva 'pip install matplotlib'.
+-Depois o 'python.exe -m pip install --upgrade pip'.
+-Permita o acesso à pasta principal.
