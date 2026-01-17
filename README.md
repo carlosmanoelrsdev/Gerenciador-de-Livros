@@ -4,4 +4,4 @@
 Funções: cadastrar, listar, buscar e exibir gráfico dinâmico.<br>
 Linguagem utilizada: Python</p>
 
-<p>Entre em contato por email: <a href="mailto:Carlosmanoelrsdev@outlook.com">Carlosmanoelrsdev@outlook.com</a></p>
+<p>Entre em contato por email: <a href="mailto:Carlosmanoeldev@outlook.com">Carlosmanoelrsdev@outlook.com</a></p>
